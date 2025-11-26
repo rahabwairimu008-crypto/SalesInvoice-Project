@@ -6,7 +6,7 @@ It ensures proper alignment, formatting, and compliance with assignment rules (e
 The output is designed to resemble a real business invoice, making it suitable for academic submissions or real-world use.
 
 ##  Features
-- Input customer details (Name, Invoice Number, Date).
+- Input customer details such as name.
 - Add multiple products with:
   - Product name
   - Quantity
